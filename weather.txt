@@ -10,3 +10,9 @@ Location: London, GB | Temperature: 10.84C | Current Conditions: Broken Clouds |
 Location: London, GB | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
 Location: Lon, BF | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
 Location: Bucharest, RO | Temperature: 64.81F, 18.23C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.23F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.23F, 30.13C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.22F, 30.12C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
