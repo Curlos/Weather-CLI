@@ -13,7 +13,7 @@ This app was created for the Chingu Voyage 31 pre-work. It pulls data from the
 
 - Displays the expected weather condition for the day by calculating the weather condition that most frequently occurs during the day
 
-- Saves the above information into a file called 'weather.txt' in the format: 'Location: [City, Country] | Temperature: [Temperature in farenheit and or Temperature in celsius] | Current Conditions: [Current weather conditions] | Expected Conditions: [Expected weather conditions]  | [Date in user's local format]'
+- Saves the above information into a file called 'weather.txt' in the format: 'Location: [City, Country] | Temperature: [Temperature in fahrenheit and or Temperature in celsius] | Current Conditions: [Current weather conditions] | Expected Conditions: [Expected weather conditions]  | [Date in user's local format]'
     - Example saved weather log: 'Location: Bucharest, RO | Temperature: 61.63F, 16.46C | Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021'
 
 ## Tech Used / Dependencies
@@ -37,7 +37,7 @@ GEOCODING_API_KEY={YOUR_API_KEY}
 
 - Then run, the following command where:
   - [city] = The city of your choice (REQUIRED)
-  - [temperature unit] = '-f' or 'farenheit' to get the temperature in farenheit and 'c' or 'celsius' or to get the temperature in celsius (OPTIONAL)
+  - [temperature unit] = '-f' or 'fahrenheit' to get the temperature in fahrenheit and 'c' or 'celsius' or to get the temperature in celsius (OPTIONAL)
 ```shell
 $ git clone https://github.com/Curlos/Weather-CLI.git
 $ npm install
@@ -56,7 +56,7 @@ $ node app.js bucharest -f
 ![Screen Shot 2021-05-28 at 6 51 15 PM](https://user-images.githubusercontent.com/41396365/120048659-b16c1a80-bfe5-11eb-9f8f-c3b2c02da950.png)
 
 ```shell
-$ node app.js bucharest -farenheit
+$ node app.js bucharest -fahrenheit
 ```
 ![Screen Shot 2021-05-28 at 6 48 36 PM](https://user-images.githubusercontent.com/41396365/120048523-520e0a80-bfe5-11eb-94ac-29188ec81cd5.png)
 
