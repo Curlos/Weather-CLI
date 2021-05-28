@@ -63,3 +63,14 @@ Location: Florida, US | Temperature: 30.79C | Current Conditions: Overcast Cloud
 Location: Florida, US | Temperature: 87.42F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
 Location: Florida, US | Temperature: 87.42F, 30.79C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
 Location: Florida, US | Temperature: 87.42F, 30.79C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 61.63F, 16.46C | Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 61.59F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 61.59F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 61.59F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 61.59F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Bucharest, RO | Temperature: 16.44C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021

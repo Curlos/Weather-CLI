@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-const convertToFarenheit = (temp) => {
+const convertToFahrenheit = (temp) => {
     return ((temp - 273.15) * (9/5) + 32).toFixed(2)
 }
 
@@ -72,7 +72,7 @@ const getMostFrequentCondition = (dailyWeather) => {
 }
 
 module.exports = {
-    convertToFarenheit,
+    convertToFahrenheit,
     convertToCelsius,
     titleCase,
     addToWeatherTrackingFile,
