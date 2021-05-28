@@ -9,3 +9,4 @@ Location: Bucharest, RO | Temperature: 18.10C | Current Conditions: Light Rain |
 Location: London, GB | Temperature: 10.84C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
 Location: London, GB | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
 Location: Lon, BF | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: 64.81F, 18.23C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
