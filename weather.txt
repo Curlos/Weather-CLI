@@ -1,0 +1,11 @@
+Location: Miami, US | Temperature: 79.12F, 26.18C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
+Location: Miami, US | Temperature: 79.12F, 26.18C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: 65.03F, 18.35C | Current Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: Current Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: Current Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: 64.58FCurrent Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: 64.58F, Current Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: Bucharest, RO | Temperature: 18.10C | Current Conditions: Light Rain | Expected Conditions: Moderate Rain | Thursday, May 27, 2021
+Location: London, GB | Temperature: 10.84C | Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
+Location: London, GB | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021
+Location: Lon, BF | Temperature: 51.51F, Current Conditions: Broken Clouds | Expected Conditions: Light Rain | Thursday, May 27, 2021

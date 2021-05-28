@@ -19,6 +19,6 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "dotenv": "^10.0.0",
-    "request": "^2.88.2"
+    "got": "^11.8.2"
   }
 }
