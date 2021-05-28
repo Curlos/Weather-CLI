@@ -48,21 +48,26 @@ $ node app.js [city] [temperature unit]
 ```shell
 $ node app.js bucharest
 ```
+![Screen Shot 2021-05-28 at 6 42 18 PM](https://user-images.githubusercontent.com/41396365/120048188-6f8ea480-bfe4-11eb-91a3-1976ea112b6d.png)
 
 ```shell
 $ node app.js bucharest -f
 ```
+![Screen Shot 2021-05-28 at 6 51 15 PM](https://user-images.githubusercontent.com/41396365/120048659-b16c1a80-bfe5-11eb-9f8f-c3b2c02da950.png)
 
 ```shell
 $ node app.js bucharest -farenheit
 ```
+![Screen Shot 2021-05-28 at 6 48 36 PM](https://user-images.githubusercontent.com/41396365/120048523-520e0a80-bfe5-11eb-94ac-29188ec81cd5.png)
 
 ```shell
 $ node app.js bucharest -c
 ```
+![Screen Shot 2021-05-28 at 6 50 50 PM](https://user-images.githubusercontent.com/41396365/120048630-a0bba480-bfe5-11eb-99a0-f1e1e19b8e03.png)
 
 ```shell
 $ node app.js bucharest -celsius
 ```
+![Screen Shot 2021-05-28 at 6 49 50 PM](https://user-images.githubusercontent.com/41396365/120048594-7f5ab880-bfe5-11eb-87ec-ca41a9e06afa.png)
 
 
