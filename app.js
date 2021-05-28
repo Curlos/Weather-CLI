@@ -1,7 +1,6 @@
 const dotenv = require('dotenv').config()
 const got = require('got')
 const chalk = require('chalk')
-const yargs = require('yargs')
 const {convertToFahrenheit, convertToCelsius, titleCase, addToWeatherTrackingFile, getMostFrequentCondition} = require('./utils')
 
 const myArgs = process.argv.slice(2)
@@ -32,7 +31,7 @@ const getCoordinates = async () => {
         logWeatherInfo(url)
         
     } catch(error) {
-        console.log(error.response.body)
+        console.log(chalk.red("ERROR! City not found! Please enter a valid city."))
     }
 }
 
@@ -67,7 +66,7 @@ const logWeatherInfo = async (url) => {
             if(TEMP_TYPE == '-f' || TEMP_TYPE == '-fahrenheit') {
                 tempFahrenheit = convertToFahrenheit(currentTemp)
                 console.log(`\n${chalk.blue(`Current temperature in ${chalk.red(`${placeInfo.city}, ${placeInfo.country}`)} is ${chalk.red(tempFahrenheit + 'F')}.`)}`)
-                weatherFileInfo['farenheit'] = tempFahrenheit
+                weatherFileInfo['fahrenheit'] = tempFahrenheit
 
             } else if(TEMP_TYPE == '-c' || TEMP_TYPE == '-celsius') {
                 tempCelsius = convertToCelsius(currentTemp)
@@ -88,7 +87,7 @@ const logWeatherInfo = async (url) => {
         weatherFileInfo['expectedConditions'] = expectedConditions
         addToWeatherTrackingFile(weatherFileInfo)
     } catch (error) {
-        console.log(error)
+        console.log(chalk.red('ERROR! City not found! Please enter a valid city.\n' + error.response.body))
     }
 }
 

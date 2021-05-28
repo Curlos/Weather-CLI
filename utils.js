@@ -31,8 +31,8 @@ const addToWeatherTrackingFile = (weatherFileInfo) => {
     const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
     let currentDate = datetime.toLocaleDateString(undefined, options)
 
-    if(weatherFileInfo.hasOwnProperty('farenheit')) {
-        line += `${weatherFileInfo.farenheit}F, `
+    if(weatherFileInfo.hasOwnProperty('fahrenheit')) {
+        line += `${weatherFileInfo.fahrenheit}F, `
     }
 
     if(weatherFileInfo.hasOwnProperty('celsius')) {
