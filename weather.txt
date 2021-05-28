@@ -16,3 +16,50 @@ Location: Miami, US | Temperature: 86.22F, 30.12C | Current Conditions: Scattere
 Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
 Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
 Location: Miami, US | Temperature: 86.04F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.98F, Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.98F, 29.99C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.98F, 29.99C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.98F, 29.99C | Current Conditions: Scattered Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 86.09F, Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: Current Conditions: Clear Sky | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.03F, 29.46C | Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 85.03F, Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Miami, US | Temperature: 84.94F, 29.41C | Current Conditions: Few Clouds | Expected Conditions: Light Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.57F, 30.87C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.64F, 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.91C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.87C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.87C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.87C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.88C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.49F, 30.83C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.28F, 30.71C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.28F, 30.71C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.28F, 30.71C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.15F, 30.64C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.03F, 30.57C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.03F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.03F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.03F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.10F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.10F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.10F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.10F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.10F, 30.61C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.08F, 30.60C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.44F, 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.44F, 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.44F, 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.44F, 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.44F, 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.80C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 30.79C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.42F, Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.42F, 30.79C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021
+Location: Florida, US | Temperature: 87.42F, 30.79C | Current Conditions: Overcast Clouds | Expected Conditions: Moderate Rain | Friday, May 28, 2021

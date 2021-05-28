@@ -1,4 +1,5 @@
 const fs = require('fs')
+const chalk = require('chalk')
 
 const convertToFarenheit = (temp) => {
     return ((temp - 273.15) * (9/5) + 32).toFixed(2)
@@ -41,13 +42,12 @@ const addToWeatherTrackingFile = (weatherFileInfo) => {
     line += `Current Conditions: ${weatherFileInfo.currentConditions} | Expected Conditions: ${weatherFileInfo.expectedConditions} `
     line += `| ${currentDate}\n`
 
-    console.log(line)
     fs.appendFile('weather.txt', line, (error) => {
         if (error) {
             throw error;
         }
 
-        console.log('Weather was added to your weather tracking file, weather.txt')
+        console.log(chalk.blue(`\nWeather was added to your weather tracking file, ${chalk.red('weather.txt')}\n`))
     })
 }
 

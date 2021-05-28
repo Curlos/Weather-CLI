@@ -1,6 +1,7 @@
 const dotenv = require('dotenv').config()
 const got = require('got')
 const chalk = require('chalk')
+const yargs = require('yargs')
 const {convertToFarenheit, convertToCelsius, titleCase, addToWeatherTrackingFile, getMostFrequentCondition} = require('./utils')
 
 const myArgs = process.argv.slice(2)
@@ -58,32 +59,30 @@ const logWeatherInfo = async (url) => {
 
 
         if (myArgs.length < 2) {
-            let tempFarenheit = convertToFarenheit(currentTemp)
-            let tempCelsius = convertToCelsius(currentTemp)
-            console.log(`Current temperature in ${placeInfo.city}, ${placeInfo.country} is ${chalk.yellow(tempFarenheit + 'F')} or ${chalk.blue(tempCelsius + 'C')}.`)
-            weatherFileInfo['farenheit'] = tempFarenheit
-            weatherFileInfo['celsius'] = tempCelsius
+            logFarenheitAndCelsius(currentTemp, placeInfo, weatherFileInfo)
 
-        } else if (myArgs.length >= 2) {
+        } else if (myArgs.length == 2) {
             const TEMP_TYPE = myArgs[1].toLowerCase()
-
-            console.log(TEMP_TYPE)
-            console.log(myArgs)
 
             if(TEMP_TYPE == '-f' || TEMP_TYPE == 'farhenheit') {
                 tempFarenheit = convertToFarenheit(currentTemp)
-                console.log(`Current temperature in ${placeInfo.city}, ${placeInfo.country} is ${chalk.yellow(tempFarenheit + 'F')}.`)
+                console.log(`\n${chalk.blue(`Current temperature in ${chalk.red(`${placeInfo.city}, ${placeInfo.country}`)} is ${chalk.red(tempFarenheit + 'F')}.`)}`)
                 weatherFileInfo['farenheit'] = tempFarenheit
 
             } else if(TEMP_TYPE == '-c' || TEMP_TYPE == 'celsius') {
                 tempCelsius = convertToCelsius(currentTemp)
-                console.log(`Current temperature in ${placeInfo.city}, ${placeInfo.country} is ${chalk.blue(tempCelsius + 'C')}.`)
+                console.log(`\n${chalk.blue(`Current temperature in ${chalk.red(`${placeInfo.city}, ${placeInfo.country}`)} is ${chalk.red(tempCelsius + 'C')}.`)}`)
                 weatherFileInfo['celsius'] = tempCelsius
+            } else {
+                // If an unknown flag that isn't farenheit or celsius is typed then just print both farenheit and celsius
+                logFarenheitAndCelsius(currentTemp, placeInfo, weatherFileInfo)
             }
+        } else {
+            console.log("Too many arguments! Allowed arguments: [city] [temperature type]. Usage: 'node app.js [city] [-f | farenheit | -c | celsius]'")
         }
 
-        console.log(`Conditions are currently: ${currentConditions}.`)
-        console.log(`What you should expect: ${expectedConditions}.`)
+        console.log(`${chalk.blue('Conditions are currently: ')}${chalk.red(currentConditions)}.`)
+        console.log(`${chalk.blue('What you should expect: ')}${chalk.red(expectedConditions)}.`)
 
         weatherFileInfo['currentConditions'] = currentConditions
         weatherFileInfo['expectedConditions'] = expectedConditions
@@ -91,6 +90,14 @@ const logWeatherInfo = async (url) => {
     } catch (error) {
         console.log(error)
     }
+}
+
+const logFarenheitAndCelsius = (currentTemp, placeInfo, weatherFileInfo) => {
+    let tempFarenheit = convertToFarenheit(currentTemp)
+    let tempCelsius = convertToCelsius(currentTemp)
+    console.log(`\n${chalk.blue(`Current temperature in ${chalk.red(`${placeInfo.city}, ${placeInfo.country}`)} is ${chalk.red(tempFarenheit + 'F')} or ${chalk.red(tempCelsius + 'C')}.`)}`)
+    weatherFileInfo['farenheit'] = tempFarenheit
+    weatherFileInfo['celsius'] = tempCelsius
 }
 
 getCoordinates()
